@@ -7,6 +7,9 @@ The goal of this project is to develop and evaluate AI-based methods for simplif
 
 The work is being developed in the context of shared-task style research, with inspiration from the CLEF SimpleText task on text simplification.
 
+## Data Set
+https://github.com/JanB100/cochrane-auto
+
 ## Current Focus
 The current system explores:
 - prompt-based simplification
